@@ -1,4 +1,4 @@
-# zoom-and-pan-programmatically-in-the-.NET-MAUI-Maps-SfMaps-
+# How to zoom and pan programmatically in the .NET MAUI Maps (SfMaps)?
 This repository contains sample to zoom and pan programmatically in the [Syncfusion .NET MAUI Maps](https://help.syncfusion.com/maui/maps/getting-started) control.
 
 Please refer the KB through this link.
